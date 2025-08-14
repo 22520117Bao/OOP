@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1679308282 source:d:\gbao\oop\bai1\binary\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<ctime>
+	<bits/stdc++.h>
+	<fstream>
+

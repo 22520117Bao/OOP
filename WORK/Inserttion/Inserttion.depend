@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680830764 source:d:\gbao\oop\bai1\inserttion\main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679298138 source:d:\gbao\oop\bai1\bai8\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

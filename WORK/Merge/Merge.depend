@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680833738 source:d:\gbao\oop\bai1\merge\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
